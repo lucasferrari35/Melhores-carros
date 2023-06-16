@@ -1,13 +1,19 @@
 body{
     color: white;  
     overflow-x: hidden; 
-    background-color:rgb(29, 105, 124) ; }
+    background-color:rgb(29, 105, 124) ; 
+    background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+
+}
 .titulo-inicio{
         width: 100vw;
         text-align: center;
 }
  .bg{
-    background-image: (download.png);
+    background-image: url(download.png);
+
  }
  
     
